@@ -28,6 +28,25 @@ Bu proje, [Orijinal Sahip İsmi] tarafından geliştirilmiş ve  [@KaplanBedwars
 
 ---
 
+
+
+## 🤝 Katkıda Bulunun
+
+Pull Request'ler, hata raporları ve öneriler her zaman memnuniyetle karşılanır!  
+Proje geliştirmesine destek olmak için repository'i **forklayabilir** ve katkıda bulunabilirsiniz.
+
+---
+
+## 📞 İletişim
+
+- [Orijinal Sahip İsmi] ile iletişim: [İletişim Bilgisi]  
+- KaplanBedwars ile iletişim: [@KaplanBedwars](https://github.com/KaplanBedwars)
+
+---
+
+> Bu proje, **özgün emeğe saygı** prensibiyle paylaşılmaktadır.
+
+
 ## 📜 Lisans
 MIT License
 
@@ -51,19 +70,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ---
-
-## 🤝 Katkıda Bulunun
-
-Pull Request'ler, hata raporları ve öneriler her zaman memnuniyetle karşılanır!  
-Proje geliştirmesine destek olmak için repository'i **forklayabilir** ve katkıda bulunabilirsiniz.
-
----
-
-## 📞 İletişim
-
-- [Orijinal Sahip İsmi] ile iletişim: [İletişim Bilgisi]  
-- KaplanBedwars ile iletişim: [@KaplanBedwars](https://github.com/KaplanBedwars)
-
----
-
-> Bu proje, **özgün emeğe saygı** prensibiyle paylaşılmaktadır.
